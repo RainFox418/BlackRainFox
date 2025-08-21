@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BlackRainFox
-- 👀 I’m interested in learning to code, cybersecurity, information technology, video editing, etc.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on projects eventually after I get a little more advanced.
-- 📫 How to reach me ...
+- 👋 Hi, I’m @RainFox418.
+- 👀 I'm an experienced Data Annotation Specialist who loves refining multimodal AI models for text, image, and video projects. I'm also a creative fiction writer. I'm interested in scaling up my skillset to work on more interesting AI projects.
+- 🌱 I’m currently learning python and focusing on skills I could use as an AI Engineer as I finish pursuing my degree in computer science.
+- 💞️ I’m looking to collaborate on projects.
+- 📫 The best way to reach me --> leconnea@gmail.com
 
 <!---
 BlackRainFox/BlackRainFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
